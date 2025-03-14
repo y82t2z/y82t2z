@@ -1,7 +1,5 @@
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=y82t2z&label=Profile%20views&color=0e75b6&style=flat" alt="y82t2z" /> </p>
-
 - 🔭 I’m currently working on **Neko-internet**
 
 - 🌱 I’m currently learning **C++, Android Development**
@@ -18,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y82t2z&show_icons=true&locale=en" alt="y82t2z" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y82t2z&" alt="y82t2z" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=y82t2z&label=Profile%20views&color=0e75b6&style=flat" alt="y82t2z" /> </p>
